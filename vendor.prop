@@ -125,6 +125,10 @@ ro.soc.model=SM6115
 ro.crypto.allow_encrypt_override=true
 ro.crypto.volume.filenames_mode=aes-256-cts
 
+# Dalvik
+dalvik.vm.dex2oat64.enabled=true
+dalvik.vm.systemuicompilerfilter=speed
+
 # Display calibration
 ro.vendor.display.sensortype=2
 ro.vendor.display.svi=1
