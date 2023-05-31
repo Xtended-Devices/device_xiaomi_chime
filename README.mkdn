@@ -1,15 +1,11 @@
-> Copyright (C) 2022 The LineageOS Project
-
-Unified Device Tree for Redmi 9T/9 Power/Note 9 4G/POCO M3 (chime)
+Device Tree for Redmi 9T/9 Power/Note 9 4G/POCO M3 (chime/citrus/lime)
 ===========================================
-
-The Redmi 9T/9 Power/Note 9 4G is a budget smartphone from Redmi, Released 2021, January 18
 
 ## Device specifications
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-OS	| Android 10 MIUI 12, Upgradeable to Android 11 MIUI 12.5	
+OS	| Android 10 MIUI 12, Upgradeable to Android 12 MIUI 14	
 CPU     | CPU	Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)
 Chipset | Qualcomm SM6115 Snapdragon 662 (11 nm)
 GPU     | Adreno 610
@@ -22,3 +18,21 @@ Rear Camera Features | LED flash, HDR, panorama
 Video	| 1080p@30fps	
 Camera (Front)  | 8 MP, f/2.1, 27mm (wide), 1/4.0", 1.12µm
 Features| Fingerprint (side-mounted), accelerometer, proximity, compass
+
+### License
+
+ Copyright (C) 2023 The LineageOS Project
+
+ Copyright (C) 2023 ashcafe.
+
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
